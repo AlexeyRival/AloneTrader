@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 7ea4b9eaca17ad047b20287846a91ccc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4571524108022033180
+    second: swords-emblem_0
+  - first:
+      213: -7097739214519819730
+    second: swords-emblem_1
+  - first:
+      213: 6952415721080087964
+    second: swords-emblem_2
+  - first:
+      213: 5284505165085131589
+    second: swords-emblem_3
+  - first:
+      213: -6437123399799445702
+    second: swords-emblem_4
+  - first:
+      213: -1964433805653482782
+    second: swords-emblem_5
+  - first:
+      213: -1521178085729078863
+    second: swords-emblem_6
+  - first:
+      213: -2035437237779395120
+    second: swords-emblem_7
+  - first:
+      213: 3989333495831733342
+    second: swords-emblem_8
+  - first:
+      213: -2238971045234441826
+    second: swords-emblem_9
+  - first:
+      213: 7428144644431225974
+    second: swords-emblem_10
+  - first:
+      213: -8238030899488853336
+    second: swords-emblem_11
+  - first:
+      213: 7491199384665978486
+    second: swords-emblem_12
+  - first:
+      213: 8608057343845420582
+    second: swords-emblem_13
+  - first:
+      213: -8665473048501727495
+    second: swords-emblem_14
+  - first:
+      213: -5562750909483564500
+    second: swords-emblem_15
+  - first:
+      213: -6226074250207013403
+    second: swords-emblem_16
+  - first:
+      213: -3094801026670503232
+    second: swords-emblem_17
+  - first:
+      213: 3490433314063654019
+    second: swords-emblem_18
+  - first:
+      213: -3499146568187253166
+    second: swords-emblem_19
+  - first:
+      213: 907973357534474738
+    second: swords-emblem_20
+  - first:
+      213: -241187112836682295
+    second: swords-emblem_21
+  - first:
+      213: 3922981393912630090
+    second: swords-emblem_22
+  - first:
+      213: 6307997371017291642
+    second: swords-emblem_23
+  - first:
+      213: 6563874604502266755
+    second: swords-emblem_24
+  - first:
+      213: -7902466594613093109
+    second: swords-emblem_25
+  - first:
+      213: -405750795027793705
+    second: swords-emblem_26
+  - first:
+      213: 514657168014742883
+    second: swords-emblem_27
+  - first:
+      213: -320529683050274016
+    second: swords-emblem_28
+  - first:
+      213: 4895218041536721756
+    second: swords-emblem_29
+  - first:
+      213: -4535762452152860568
+    second: swords-emblem_30
+  - first:
+      213: -8391881756727888423
+    second: swords-emblem_31
+  - first:
+      213: -1166643587074363243
+    second: swords-emblem_32
+  - first:
+      213: -446286524135162239
+    second: swords-emblem_33
+  - first:
+      213: 9028820281568477850
+    second: swords-emblem_34
+  - first:
+      213: -7283008271643552675
+    second: swords-emblem_35
+  - first:
+      213: -2552277625471391555
+    second: swords-emblem_36
+  - first:
+      213: -7382292155205316097
+    second: swords-emblem_37
+  - first:
+      213: 1797951132652964289
+    second: swords-emblem_38
+  - first:
+      213: -5707150032671010500
+    second: swords-emblem_39
+  - first:
+      213: -7734519766612748321
+    second: swords-emblem_40
+  - first:
+      213: 2642599867817622864
+    second: swords-emblem_41
+  - first:
+      213: 8259556303182645245
+    second: swords-emblem_42
+  - first:
+      213: -2688443516736275206
+    second: swords-emblem_43
+  - first:
+      213: 2551706512863100049
+    second: swords-emblem_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swords-emblem_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 482
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e1d94341fb7060800000000000000
+      internalID: 6952415721080087964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swords-emblem_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 480
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543cd9af275565940800000000000000
+      internalID: 5284505165085131589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swords-emblem_15
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 358
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22404245832dc2b0800000000000000
+      internalID: -5562750909483564500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swords-emblem_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 339
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e55433e47a8899a0800000000000000
+      internalID: -6226074250207013403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swords-emblem_17
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 97
+        width: 238
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca5acafcde0d05d0800000000000000
+      internalID: -3094801026670503232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swords-emblem_18
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 67
+        width: 237
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c14f42b92807030800000000000000
+      internalID: 3490433314063654019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swords-emblem_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 59
+        width: 240
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eeb2a4cb8807fc0800000000000000
+      internalID: -3499146568187253166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swords-emblem_35
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 92
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d545470609e8dea90800000000000000
+      internalID: -7283008271643552675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swords-emblem_38
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c98a49770b93f810800000000000000
+      internalID: 1797951132652964289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 11708dcfe42d2564bb52768affb95548
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
